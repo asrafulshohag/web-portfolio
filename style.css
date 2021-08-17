@@ -1,0 +1,22 @@
+body{
+    font-family: 'Lora', serif;
+}
+
+
+h1{
+ font: size 199px;
+}
+.name{
+    color: orange;
+}
+.helf-width{
+    width: 30%;
+    float: left;
+    margin-left: 50px;
+    padding-left: 10px;
+
+}
+.helf-width img{
+    width: 100%;
+    margin-left: 100px;
+}
