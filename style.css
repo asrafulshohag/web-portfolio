@@ -7,7 +7,7 @@ body{
 h1{
  font: size 199px;
 }
-.name{
+.orange-area{
     color: orange;
 }
 .helf-width{
@@ -59,5 +59,35 @@ p{
         background-repeat: no-repeat;
         background-position: right;
     }
+    .experince-area{
+        background-image: url(complete-web-development-bangla-resources/developer-portfolio/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        
+
+    }
+    .single-experience{
+        box-shadow: 5px 5px 30px gray;
+        border-radius: 10px;
+        height:50%;
+
+    }
+    #full-stack{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg,lightsalmon,tomato);
+        border-image-slice: 1;
+    }
+    
+    #baby-dev{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg,blue, cyan);
+        border-image-slice: 1;
+
+    }
+    footer p{
+        text-align: center;
+    }
+
+ 
     
     
